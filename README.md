@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro Luz
 
-- Atualmente só estudando
+- Estágio Suporte técnico N1
 - Cursando Ciências da Computação
 - Back-end
 - Inglês Fluente
